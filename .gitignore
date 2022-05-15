@@ -1,0 +1,4 @@
+node_modules
+src/keys.js
+.env
+sonar-project.properties
